@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=10">
+        <title>Responsive CV</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" type="text/css" href="dasariswapnaminiproject.css">
+        
+    </head>
+    <body>
+        <div class="container">
+            <div class="left_side">
+                <div class="profileText">
+                    <div class="imgBx">
+                        <img src="swapna.jpg">
+                    </div>
+                   
+                   <h2>DASARI SWAPNA<br><span>Web Developer</span></h2>
+                </div>
+                <div class="contactInfo">
+                    <h3 class="title">ContactInfo</h3>
+                    <ul>
+                        <li>
+                            <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                            <span class="text">+91 6300836006</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-envelope-open-o" aria-hidden="true"></i></span>
+                            <span class="text">dasariswapna638@gmail.com</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i></span>
+                            <span class="text">https://www.linkedin.com/in/swapna-dasari-01686b1b1/</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                            <span class="text">Addanki,Andhra Pradesh,India</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="contactInfo education">
+                    <h3 class="title">Education</h3>
+                    <ul>
+                        <li>
+                            <h5>2017-2021</h5>
+                            <h4>Bachelor Degree in Electronics Communication</h4>
+                            <h4>Prakasam Engineering College</h4>
+                        </li>
+                        <li>
+                            <h5>2015-2017</h5>
+                            <h4>Intermediate</h4>
+                            <h4>Bharath junior College</h4>
+                        </li>
+                        <li>
+                            <h5>2005-2015</h5>
+                            <h4>Matriculation</h4>
+                            <h4>Viswa Bharathi High School</h4>
+                        </li>
+                    </ul>
+                </div>
+                 
+            </div>
+
+                <div class="right_side">
+                       <div class="about">
+                           <h2 class="title2">Career Objective</h2>
+                           <p>To pursue career in an esteemed organization and hold a responcible position which would enhance my skills and creativity to crave a winning edge for the organization</p>
+                        </div>
+                       <div class="about"> 
+                           <h2 class="title2">Certifications</h2>
+                           <ul>
+                               <li>
+                                  Certified for Siemens Basics E lectronics
+                               </li>
+                               <li>
+                                  Certified for Basics Engineering Drawing by APSSDC and Siemens
+                               </li>
+                           </ul>
+                       </div>
+                       <div class="about skills">
+                           <h2 class="title2">Professional Skills</h2>
+                               <ul>
+                                <li>Html</li>
+                                <li>Css</li>
+                                <li>Javascript</li>
+                               </ul>
+                       </div>
+                       <div class="about languages">
+                        <h2 class="title2">Languages</h3>
+                        <ul>
+                            <li>English</li>
+                            <li>Hindi</li>
+                            <li>Telugu</li>
+                        </ul>
+                    </div>
+                    <div class="about interest">
+                        <h2 class="title2">Interest</h3>
+                        <ul>
+                            <li>
+                                <span class="icon"><i class="fa fa-microphone" aria-hidden="true"></i></span>
+                                <span class="text">Singing</span>
+                            </li>
+                            <li>
+                                <span class="icon"><i class="fa fa-cutlery" aria-hidden="true"></i></span>
+                                <span class="text">Cooking</span>
+                            </li>
+                            <li>
+                                <span class="icon"><i class="fa fa-book" aria-hidden="true"></i></span>
+                                <span class="text">Reading</span>
+                            </li>
+                        </ul>
+
+                    </div>
+                      
+                </div>
+            
+        </div>
+    </body>
+</html>
